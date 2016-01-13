@@ -1,3 +1,13 @@
-* TODO topic
-
-plants / agriculture
+* story outline
+** TODO intro/overview
+** benefits of hydroponics
+hydroponics have numerous benefits...
+** hydroponics are needlessly expensive
+could be produced much more cheaply
+** what we really need is an open hydroponics system
+but, there are challenges in implementing an open system.
+here we focus on standards issues 
+** standards issues in an open agriculture system
+*** organization & retrieval
+*** siloed agricultural knowledge
+*** TODO ???
